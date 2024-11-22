@@ -1,5 +1,3 @@
-import RootPage from "@/app/page";
-
-export default function Page() {
-  return <RootPage />;
+export default function RootPage() {
+  return <div>asdf</div>;
 }

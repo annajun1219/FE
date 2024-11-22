@@ -1,3 +1,5 @@
+import ResultPage from "@/components/result/page";
+
 export default function Page() {
-  return <div>asdf</div>;
+  return <ResultPage />;
 }
